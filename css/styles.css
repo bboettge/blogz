@@ -70,3 +70,8 @@ nav ul li {
 nav #user-account {
     float: right;
 }
+
+.instructions {
+  font-size: 12px;
+  margin-top: 40px;
+}
